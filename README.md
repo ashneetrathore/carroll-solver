@@ -15,7 +15,7 @@ Written in **C++**, the program loads a dictionary of words from a file and repr
 
 ## :open_file_folder: PROJECT FILE STRUCTURE
 ```bash
-CarrollSolver/
+carroll-solver/
 │── app/
 │   │── main.cpp              # Takes user input and runs solver
 │   │── convert.cpp           # Implements search algorithm and constructs paths
@@ -31,12 +31,12 @@ CarrollSolver/
 ## :rocket: SET UP & EXECUTION
 **1. Clone the repository**
 ```bash
-git clone https://github.com/ashneetrathore/CarrollSolver.git
+git clone https://github.com/ashneetrathore/carroll-solver.git
 ```
 
 **2. Run the program**
 ```bash
-cd CarrollSolver/app
+cd carroll-solver/app
 g++ -std=c++17 main.cpp convert.cpp -o app
 ./app
 ```
