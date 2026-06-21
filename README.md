@@ -42,9 +42,9 @@ g++ -std=c++17 main.cpp convert.cpp -o app
 
 ## :wrench: TRY IT OUT
 > [!IMPORTANT]\
->The start and target words must be present in the dictionary, and there must be valid intermediate words in the dictionary connecting them. If not, no sequence will be found.
+> Both start and target words must exist in the dictionary with valid intermediate words connecting them.
 
-Here are some sample start and target words you can input:
+Sample word pairs to input:
 | Start Word | Target Word |
 |------------|-------------|
 | ate        | eat         |
