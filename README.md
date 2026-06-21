@@ -2,7 +2,7 @@
 
 ## :open_book: OVERVIEW
 Date: March 2023\
-Developer(s): Ashneet Rathore\
+Developer(s): Ashneet Rathore
 
 Carroll Solver is a program that solves [word ladders](https://en.wikipedia.org/wiki/Word_ladder), a puzzle invented by Lewis Carroll in which a start word is transformed to a target word by changing one letter at a time, with each step forming a valid word. For example, to get from *"ate"* to *"oat"*, one possible sequence of words is *ate → ape → apt → opt → oat*. Carroll Solver provides an efficient way to compute the ***shortest*** transformation sequences between any two dictionary words. Users can input a start word and a target word of the same length from the dictionary, and the program outputs the resulting sequence.
 
