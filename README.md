@@ -27,7 +27,7 @@ carroll-solver/
 └── demo.gif                  # Demo GIF
 ```
 
-## :rocket: SET UP & EXECUTION
+## :rocket: EXECUTION
 **1. Clone the repository**
 ```bash
 git clone https://github.com/ashneetrathore/carroll-solver.git
